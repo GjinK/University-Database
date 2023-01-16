@@ -80,267 +80,267 @@ CREATE TABLE Login (
 
 --isnertimi i te dhenave
 
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
-insert into Profesori values (),
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
+insert into Profesori values ();
 							 
 							 
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
-insert into Studenti values (),
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
 
 
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
-insert into User values (),
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
 
 
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
-insert into Login values (),
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
+insert into Login values ();
 
 
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
-insert into Admin values (),
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
+insert into Admin values ();
 						   
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
-insert into Lenda values (),
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
+insert into Lenda values ();
 						   
-insert into Rolet values (),
-insert into Rolet values (),
-insert into Rolet values (),
-insert into Rolet values (),
-insert into Rolet values (),
-insert into Rolet values (),
-insert into Rolet values (),
-insert into Rolet values (),
-insert into Rolet values (),
-insert into Rolet values (),
-						  
-insert into Drejtimi values (),
-insert into Drejtimi values (),
-insert into Drejtimi values (),
-insert into Drejtimi values (),
-insert into Drejtimi values (),
-insert into Drejtimi values (),
-insert into Drejtimi values (),
-insert into Drejtimi values (),
-insert into Drejtimi values (),
-insert into Drejtimi values (),
+insert into Rolet values ();
+insert into Rolet values ();
+insert into Rolet values ();
+insert into Rolet values ();
+insert into Rolet values ();
+insert into Rolet values ();
+insert into Rolet values ();
+insert into Rolet values ();
+insert into Rolet values ();
+insert into Rolet values ();
+						 
+insert into Drejtimi values ();
+insert into Drejtimi values ();
+insert into Drejtimi values ();
+insert into Drejtimi values ();
+insert into Drejtimi values ();
+insert into Drejtimi values ();
+insert into Drejtimi values ();
+insert into Drejtimi values ();
+insert into Drejtimi values ();
+insert into Drejtimi values ();
 
 --update i rreshtave
 
@@ -446,3 +446,59 @@ DELETE FROM User WHERE condition;
 DELETE FROM User WHERE condition;
 
 --query
+
+SELECT Stu_ID, Stu_emri FROM Studenti;
+
+SELECT Prof_ID, Prof_emri FROM Profesori;
+
+SELECT User_ID, User_name FROM User;
+
+SELECT Admin_ID, Admin_name FROM Admin;
+
+SELECT Login_ID, Login_usernamei FROM Login;
+
+
+SELECT Stu_ID, Stu_emri, User_ID, User_name FROM Studenti, User;
+
+SELECT Stu_email, Stu_adresa, User_email, User_address FROM Studenti, User;
+
+SELECT Prof_ID, Prof_emri, Stu_ID, Stu_emri FROM Profesori, Studenti; 
+
+SELECT User_ID, User_mobile, Admin_ID, Admin_name FROM User, Admin; 
+
+SELECT Admin_ID, Admin_name, Login_ID, Login_username FROM Admin, Login;
+
+--query te avancuara
+
+SELECT Stu_email, Stu_adresa, Stu_ID, Stu_emri
+FROM Studenti
+WHERE Drejtimi_ID = ; 
+
+SELECT Prof_ID, Prof_emri, Prof_email
+FROM Profesori
+WHERE Drejtimi_ID = ; 
+
+SELECT User_ID, User_name, User_email, User_address
+FROM User
+WHERE Roli_ID = ; 
+
+SELECT Login_ID, Login_username
+FROM Login
+WHERE Roli_ID = ; 
+
+SELECT Lenda_ID, Lenda_emri, Lenda_pershkrimi
+FROM Lenda
+WHERE Drejtimi_ID = ; 
+
+--subquery
+
+
+
+--funksione
+
+
+
+--procedura
+
+
+
