@@ -204,6 +204,11 @@ insert into User values (),
 insert into User values (),
 insert into User values (),
 insert into User values (),
+insert into User values (),
+insert into User values (),
+insert into User values (),
+insert into User values (),
+insert into User values (),
 
 
 insert into Login values (),
@@ -337,3 +342,107 @@ insert into Drejtimi values (),
 insert into Drejtimi values (),
 insert into Drejtimi values (),
 
+--update i rreshtave
+
+UPDATE User
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE User
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE User
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE User
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE User
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE User
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE User
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE User
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE User
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE User
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+
+
+UPDATE Studenti
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE Studenti
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE Studenti
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE Studenti
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+UPDATE Studenti
+SET column1 = value1, column2 = value2, ...
+WHERE condition; 
+
+
+
+UPDATE Profesori
+SET column1 = value1, column2 = value2, ...
+
+UPDATE Profesori
+SET column1 = value1, column2 = value2, ...
+
+UPDATE Profesori
+SET column1 = value1, column2 = value2, ...
+
+UPDATE Profesori
+SET column1 = value1, column2 = value2, ...
+
+UPDATE Profesori
+SET column1 = value1, column2 = value2, ...
+
+--fshirja e rreshtave
+
+DELETE FROM User WHERE condition;
+
+DELETE FROM User WHERE condition;
+
+DELETE FROM User WHERE condition;
+
+DELETE FROM User WHERE condition;
+
+DELETE FROM User WHERE condition;
+
+DELETE FROM User WHERE condition;
+
+DELETE FROM User WHERE condition;
+
+DELETE FROM User WHERE condition;
+
+DELETE FROM User WHERE condition;
+
+DELETE FROM User WHERE condition;
+
+--query
