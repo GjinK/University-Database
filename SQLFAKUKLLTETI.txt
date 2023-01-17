@@ -142,8 +142,28 @@ insert into Studenti values ();
 insert into Studenti values ();
 insert into Studenti values ();
 insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
+insert into Studenti values ();
 
 
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
+insert into User values ();
 insert into User values ();
 insert into User values ();
 insert into User values ();
@@ -492,13 +512,16 @@ WHERE Drejtimi_ID = ;
 
 --subquery
 
+SELECT User_name FROM User WHERE User_email = (SELECT Stu_email FROM Studenti WHERE User_name = '' );
 
+SELECT * FROM Lenda (SELECT Prof_ID, COUNT(Prof_ID) AS 'Numri i profesorave' FROM Lenda ORDER BY Prof_ID ASC HAVING COUNT(Prof_ID) > 2)
 
 --funksione
 
+SELECT COUNT(*) AS Numri_Stu FROM Studenti;
 
+SELECT Stu_ID, TRIM(Stu_ID) AS IDTRIM FROM Studenti;
 
 --procedura
-
 
 
